@@ -8,13 +8,13 @@
 I'm Naveen Kumar Ballanki from India, and I'm front-end developer. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 <div align="center">
-<a href="https://www.fareworks.in" target="_blank"> 
+<a href="https://www.fareworks.in"> 
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=CodersRank&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/jchiu86">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://jeffrey-chiu.medium.com/">
+<a href="https://naveensurya.hashnode.dev/">
 <img src="https://img.shields.io/badge/read%20my%20blogs%20on%20Hashnode-blue?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode" />
 </a>
 <a href="mailto:naveensurya064@gmail.com">
