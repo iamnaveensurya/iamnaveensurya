@@ -6,9 +6,11 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm Naveen Kumar Ballanki from India, and I'm front-end developer. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+ 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 <div align="center">
-<a href="https://naveensuyra.netlify.app/" target="_blank"> 
+<a href="https://naveensuyra.netlify.app/"> 
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=CodersRank&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/naveenkumarballanki" target="_blank">
