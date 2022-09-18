@@ -8,16 +8,16 @@
 I'm Naveen Kumar Ballanki from India, and I'm front-end developer. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 <div align="center">
-<a href="https://naveensuyra.netlify.app/"> 
+<a href="https://naveensuyra.netlify.app/" target="_blank"> 
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=CodersRank&logoColor=white" alt="portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/naveenkumarballanki">
+<a href="https://www.linkedin.com/in/naveenkumarballanki" target="_blank">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://naveensurya.hashnode.dev/">
+<a href="https://naveensurya.hashnode.dev/" target="_blank">
 <img src="https://img.shields.io/badge/read%20my%20blogs%20on%20Hashnode-blue?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode" />
 </a>
-<a href="mailto:naveensurya064@gmail.com">
+<a href="mailto:naveensurya064@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
