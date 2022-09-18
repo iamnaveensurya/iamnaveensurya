@@ -7,8 +7,6 @@
 
 I'm Naveen Kumar Ballanki from India, and I'm front-end developer. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
  
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-
 <div align="center">
 <a href="https://naveensuyra.netlify.app/"> 
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=CodersRank&logoColor=white" alt="portfolio" />
