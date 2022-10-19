@@ -5,7 +5,7 @@
 
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Naveen Kumar Ballanki from India, and I'm front-end developer. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+I'm Naveen Kumar Ballanki from India, and I'm Frontend developer looking to leverage my passion for building engaging products and user experiences. Skilled in JavaScript,Tailwind CSS, Git, HTML & CSS. With excellent communication skills and always ready to learn new skill sets, I am also a great team player and a self-starter that likes to engage in a logical thinking approach to problem-solving.
  
 <div align="center">
 <a href="https://naveensuyra.netlify.app/"> 
